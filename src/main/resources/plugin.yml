@@ -1,0 +1,11 @@
+name: AsgardLobby
+version: '${project.version}'
+main: me.huls.asgardlobby.AsgardLobby
+authors: [ yHulsG0D_ ]
+commands:
+  fly:
+    aliases:
+      - voar
+  gm:
+    aliases:
+      - gamemode
